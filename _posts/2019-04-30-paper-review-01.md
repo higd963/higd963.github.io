@@ -9,5 +9,4 @@ Papers' name is "The Use of a Graph-Based System to Improve Bibliographic Inform
 This paper proposes that Graph-based Interative Bibliographic Information Retrieval system(GIBIR) provides an effective way to retrieve bibliographic information. 
 
 Problem>
-
 previous systems only support articles as the final search results. Additionally, these systems have limitations in repre- senting complex search contexts.
