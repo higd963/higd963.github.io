@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Martin Bulla
+      value: Hyeon-Ju Jeon
     - name: Date of Birth
-      value: 31st August 1981
+      value: August 17th, 1996
     - name: Languages
-      value: English, German, Czech <em>native</em>, Slovak, Russian <em>basic</em>
+      value: Korean <em>native</em>, English <em>fluent</em>
 
 - title: Experience
   type: time_table
