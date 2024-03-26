@@ -10,7 +10,7 @@ category: Academic
 
 Explainable Recommendation Service based on Graph Embedding by Processing Academic Big Data (2020/05/01 − 2020/10/31), Supported by the Women In Science, Engineering and Technology (WISET) grant funded by the Korea government (MSIT).
 
-연구책임자 전현주, 한국여성과학기술인지원센터(WISET) 여대학원생 공학연구팀제 지원사업 2020년 일반과정 선정
+연구책임자 전현주, 한국여성과학기술인지원센터([WISET](https://www.wiset.or.kr/)) 여대학원생 공학연구팀제 지원사업 2020년 일반과정 선정
 
 2020/05/01 - 2020/10/31 (6,000 천원)
 
