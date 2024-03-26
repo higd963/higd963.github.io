@@ -16,3 +16,11 @@ Explainable Recommendation Service based on Graph Embedding by Processing Academ
 
 학술 빅데이터를 통한 그래프 임베딩 기반의 설명 가능한 추천서비스 개발 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj/academic/2020_wiset_1.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    
+</div>
