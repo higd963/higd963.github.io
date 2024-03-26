@@ -27,8 +27,6 @@ Development of GNN-Based Citation Context Extraction and Analysis System for Int
     
 </div>
 
-Hyeon-Ju Jeon, Gyu-Sik Choi, Se-Young Cho, Hanbin Lee, Hee Yeon Ko, Jason J Jung, O-Joun Lee, Myeong-Yeon Yi (2021). Learning Contextual Representations of Citations via Graph Transformer. in Proceedings of the 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; December 2021.[link](https://ceur-ws.org/Vol-3026/paper16.pdf)
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj/academic/2021_wiset_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -36,4 +34,16 @@ Hyeon-Ju Jeon, Gyu-Sik Choi, Se-Young Cho, Hanbin Lee, Hee Yeon Ko, Jason J Jung
 </div>
 <div class="caption">
     전산컴퓨터 분과 우수 연구과제로 선정되어 수상 (Best Research Project Award)
+</div>
+
+
+Hyeon-Ju Jeon, Gyu-Sik Choi, Se-Young Cho, Hanbin Lee, Hee Yeon Ko, Jason J Jung, O-Joun Lee, Myeong-Yeon Yi (2021). Learning Contextual Representations of Citations via Graph Transformer. in Proceedings of the 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; December 2021.[link](https://ceur-ws.org/Vol-3026/paper16.pdf)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj/academic/2021_wiset_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Best Paper Award
 </div>
