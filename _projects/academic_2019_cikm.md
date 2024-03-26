@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Internal clock of red knots 
+title: CIKM Conference at Beijing (Nov. 2023) 
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/proj/academic/2019_cikm_1.JPG
 redirect: 
 importance: 3
 category: Academic
