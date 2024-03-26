@@ -27,7 +27,7 @@ Development of GNN-Based Citation Context Extraction and Analysis System for Int
     
 </div>
 
-Hyeon-Ju Jeon, Gyu-Sik Choi, Se-Young Cho, Hanbin Lee, Hee Yeon Ko, Jason J Jung, O-Joun Lee, Myeong-Yeon Yi (2021). Learning Contextual Representations of Citations via Graph Transformer. in Proceedings of the 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; December 2021.[link](https://ceur-ws.org/Vol-3026/paper16.pdf))
+Hyeon-Ju Jeon, Gyu-Sik Choi, Se-Young Cho, Hanbin Lee, Hee Yeon Ko, Jason J Jung, O-Joun Lee, Myeong-Yeon Yi (2021). Learning Contextual Representations of Citations via Graph Transformer. in Proceedings of the 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; December 2021.[link](https://ceur-ws.org/Vol-3026/paper16.pdf)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
