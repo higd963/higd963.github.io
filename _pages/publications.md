@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description: Asterik(*) means equal contribution.
 years: [2024, 2023, 2022, 2021, 2019]
 nav: true
 nav_order: 3
