@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /repos/
+permalink: /events/
 title: Events
 description: selected
-nav: false
-nav_order: 3
+nav: true
+nav_order: 4
 ---
 
 ### GitHub users
