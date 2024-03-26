@@ -5,7 +5,7 @@ permalink: /events/
 description:
 nav: true
 nav_order: 4
-display_categories: [Academic, Other fun]
+display_categories: [Academic, Activities]
 horizontal: false
 ---
 
