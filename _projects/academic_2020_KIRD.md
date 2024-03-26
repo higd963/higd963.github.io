@@ -12,7 +12,7 @@ Explainable Recommendation Service based on Graph Embedding by Processing Academ
 
 연구책임자 전현주, 과학기술정보통신부 국가과학기술인력개발원(KIRD) 휴먼플러스 융합연구개발 사업 선정
 
-2020/06/01
+2020/06/01 - 2020/11/31 (18,000천원)
 
 온라인 사용자간 인식 차이 해소를 위한 소셜 데이터 모델링
 
