@@ -3,7 +3,7 @@ layout: page
 permalink: /repos/
 title: Events
 description: selected
-nav: true
+nav: false
 nav_order: 3
 ---
 
