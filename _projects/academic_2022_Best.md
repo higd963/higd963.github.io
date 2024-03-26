@@ -10,7 +10,7 @@ category: Academic
 
 Best Researcher Award, Korea Institute of Atmospheric Prediction Systems (KIAPS) (2022)
 
-연구원 전현주, KIAPS 최우수직원상 수상
+KIAPS 최우수직원상 수상
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
