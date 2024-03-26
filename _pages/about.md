@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:  Research Scientist at Korea Institute of Atmospheric Prediction Systems (KIAPS)
 profile:
