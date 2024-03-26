@@ -12,7 +12,7 @@ Development of GNN-Based Citation Context Extraction and Analysis System for Int
 
 연구책임자 전현주, 한국여성과학기술인지원센터([WISET](https://www.wiset.or.kr/)) 여대학원생 공학연구팀제 지원사업 2021년 심화과정 선정
 
-2021/05/01 - 2020/10/31 (7,000천원)
+2021/05/01 - 2021/10/31 (7,000천원)
 
 'Graph Transformer를 통한 인용의 문맥 표현 학습' 연구,
 
