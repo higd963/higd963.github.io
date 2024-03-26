@@ -12,7 +12,7 @@ Explainable Recommendation Service based on Graph Embedding by Processing Academ
 
 연구책임자 전현주, 한국여성과학기술인지원센터(WISET) 여대학원생 공학연구팀제 지원사업 2020년 일반과정 선정
 
-2020/05/01 - 2020/10.31 (6,000 천원)
+2020/05/01 - 2020/10/31 (6,000 천원)
 
 학술 빅데이터를 통한 그래프 임베딩 기반의 설명 가능한 추천서비스 개발 
 
