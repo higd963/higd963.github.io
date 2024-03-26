@@ -2,7 +2,7 @@
 layout: page
 title: KIRD Research Project (Jun. 2020) 
 description: KIRD 휴먼플러스 융합연구개발 사업 선정
-img: assets/img/proj/academic/2020_kird_1.PNG
+img: assets/img/proj/academic/2020_kird_1.png
 redirect: 
 importance: 3
 category: Academic
@@ -18,7 +18,7 @@ Explainable Recommendation Service based on Graph Embedding by Processing Academ
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj/academic/2020_kird_1.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj/academic/2020_kird_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
