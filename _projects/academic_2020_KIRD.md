@@ -15,3 +15,12 @@ Explainable Recommendation Service based on Graph Embedding by Processing Academ
 2020/06/01
 
 온라인 사용자간 인식 차이 해소를 위한 소셜 데이터 모델링
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj/academic/2020_kird_1.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    
+</div>
