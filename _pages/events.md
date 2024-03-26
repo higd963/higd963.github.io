@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Events
+permalink: /events/
 description:
-nav: false
-nav_order: 1
-display_categories: [science, other fun]
+nav: true
+nav_order: 4
+display_categories: [Academic, Other fun]
 horizontal: false
 ---
 
