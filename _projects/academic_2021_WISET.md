@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WISET Research Project (May. 2021) 
-description: WISET 여대학원생 공학연구팀제 지원사업 선정
+description: WISET 여대학원생 공학연구팀제 지원사업 선정 (우수과제수상)
 img: assets/img/proj/academic/2021_wiset_1.png
 redirect: 
 importance: 3
