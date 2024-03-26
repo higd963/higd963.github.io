@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CIKM Conference at Beijing (Nov. 2023) 
+title: CIKM Conference at Beijing (Nov. 2019) 
 description: 
 img: assets/img/proj/academic/2019_cikm_1.JPG
 redirect: 
