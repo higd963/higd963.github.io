@@ -27,7 +27,7 @@ Eun-jin Kim, Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon (2023). A Study on Machin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj/academic/2023_itsc_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj/academic/2023_itsc_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj/academic/2023_itsc_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
