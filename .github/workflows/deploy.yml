@@ -19,15 +19,8 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '2.7.6'
-        bundler: '2.4.0'
+        ruby-version: "3.2.2"
         bundler-cache: true
-
-    - name: Force-install Bundler 2.4.0
-      run: gem install bundler -v '2.4.0'
-
-    - name: Install Ruby Gems
-      run: bundle install --jobs 4 --retry 3
         
     - name: Install deps
       run: |
