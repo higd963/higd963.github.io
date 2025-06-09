@@ -4,7 +4,7 @@ title: KIRD Research Project (Jun. 2020)
 description: KIRD 휴먼플러스 융합연구개발 사업 선정
 img: assets/img/proj/academic/2020_kird_1.png
 redirect: 
-importance: 3
+importance: 999
 category: Academic
 ---
 
