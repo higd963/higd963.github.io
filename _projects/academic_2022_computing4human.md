@@ -4,7 +4,7 @@ title: Computing4Human Conference at Hanoi (Dec. 2022)
 description: 
 img: assets/img/proj/academic/2022_c4h_3.jpeg
 redirect: 
-importance: 3
+importance: 995
 category: Academic
 ---
 
