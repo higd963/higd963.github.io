@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-received-best-researcher-award-from-kiaps",
-          title: 'I received Best Researcher Award from KIAPS.',
+            },},{id: "news-i-received-the-best-researcher-award-from-kiaps",
+          title: 'I received the Best Researcher Award from KIAPS.',
           description: "",
           section: "News",},{id: "news-a-paper-got-accepted-at-xai4sci-aaai-2024",
           title: 'A paper got accepted at XAI4Sci @AAAI 2024.',
