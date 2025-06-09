@@ -42,52 +42,12 @@
       "summary": ""
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Korean",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "references": [
     {
       "name": "Prof. O-June Lee",
       "icon": "fa-solid fa-laptop",
-      "reference": "Associate Professor at The Catholic University of Korea"
+      "url": "https://nslab-cuk.github.io/",
+      "reference": "Assistant Professor at The Catholic University of Korea"
     },
     {
       "name": "Prof. Lim Hae Gyun",
