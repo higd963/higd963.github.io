@@ -4,7 +4,7 @@ title: IEEE IUS at Montreal (Sep. 2023)
 description: 
 img: assets/img/proj/academic/2023_IUS_1.webp
 redirect: 
-importance: 992
+importance: 991
 category: Academic
 ---
 
