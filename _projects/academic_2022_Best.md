@@ -4,7 +4,7 @@ title: Best Researcher Award @KIAPS (Dec. 2022)
 description: KIAPS 최우수직원상 수상
 img: assets/img/proj/academic/2022_best_1.jpg
 redirect: 
-importance: 3
+importance: 996
 category: Academic
 ---
 
