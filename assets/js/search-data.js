@@ -412,7 +412,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-i-received-best-researcher-award-from-kiaps",
+          title: 'I received Best Researcher Award from KIAPS.',
+          description: "",
+          section: "News",},{id: "news-a-paper-got-accepted-at-xai4sci-aaai-2024",
+          title: 'A paper got accepted at XAI4Sci @AAAI 2024.',
+          description: "",
+          section: "News",},{id: "news-a-paper-has-been-published-at-ultrasonics-jcr-top-15",
+          title: 'A paper has been published at Ultrasonics (JCR Top 15%).',
+          description: "",
+          section: "News",},{id: "news-a-paper-has-been-published-at-ieee-sensors-journal",
+          title: 'A paper has been published at IEEE Sensors Journal.',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
