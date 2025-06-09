@@ -4,7 +4,7 @@ title: Samsung Global Technology Symposium (Apr. 2023)
 description: 2023년 삼성 글로벌 테크놀로지 심포지엄 수상
 img: assets/img/proj/academic/2023_samsung_1.webp
 redirect: 
-importance: 991
+importance: 992
 category: Academic
 ---
 
