@@ -4,7 +4,7 @@ title: AI Seminar at CUK (Mar. 2025)
 description: 
 img: assets/img/proj/academic/aiseminar_cuk_2025.JPG
 redirect: 
-importance: 100
+importance: 989
 category: Activities
 ---
 
