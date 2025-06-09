@@ -4,7 +4,7 @@ title: ITSC Conference at Tromso (Mar. 2023)
 description: 
 img: assets/img/proj/academic/2023_itsc_1.jpg
 redirect: 
-importance: 3
+importance: 993
 category: Academic
 ---
 
