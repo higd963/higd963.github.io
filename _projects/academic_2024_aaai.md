@@ -4,7 +4,7 @@ title: AAAI Conference at Vancouver (Feb. 2024)
 description: 
 img: assets/img/proj/academic/2024_aaai_1.jpg
 redirect: 
-importance: 99
+importance: 990
 category: Academic
 ---
 
