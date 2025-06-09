@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-events",
+          title: "events",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/events/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -417,7 +417,67 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-has-been-published-at-ieee-sensors-journal",
           title: 'A paper has been published at IEEE Sensors Journal.',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-cikm-conference-at-beijing-nov-2019",
+          title: 'CIKM Conference at Beijing (Nov. 2019)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2019_cikm/";
+            },},{id: "projects-kird-research-project-jun-2020",
+          title: 'KIRD Research Project (Jun. 2020)',
+          description: "KIRD 휴먼플러스 융합연구개발 사업 선정",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2020_KIRD/";
+            },},{id: "projects-wiset-research-project-may-2020",
+          title: 'WISET Research Project (May 2020)',
+          description: "WISET 여대학원생 공학연구팀제 지원사업 선정",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2020_WISET/";
+            },},{id: "projects-wiset-research-project-may-2021",
+          title: 'WISET Research Project (May 2021)',
+          description: "WISET 여대학원생 공학연구팀제 지원사업 선정 (우수과제수상)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2021_WISET/";
+            },},{id: "projects-best-researcher-award-kiaps-dec-2022",
+          title: 'Best Researcher Award @KIAPS (Dec. 2022)',
+          description: "KIAPS 최우수직원상 수상",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2022_Best/";
+            },},{id: "projects-computing4human-conference-at-hanoi-dec-2022",
+          title: 'Computing4Human Conference at Hanoi (Dec. 2022)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2022_computing4human/";
+            },},{id: "projects-egu-conference-at-vienna-apr-2023",
+          title: 'EGU Conference at Vienna (Apr. 2023)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2023_EGU/";
+            },},{id: "projects-itsc-conference-at-tromso-mar-2023",
+          title: 'ITSC Conference at Tromso (Mar. 2023)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2023_ITSC/";
+            },},{id: "projects-ieee-ius-at-montreal-sep-2023",
+          title: 'IEEE IUS at Montreal (Sep. 2023)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2023_ius/";
+            },},{id: "projects-samsung-global-technology-symposium-apr-2023",
+          title: 'Samsung Global Technology Symposium (Apr. 2023)',
+          description: "2023년 삼성 글로벌 테크놀로지 심포지엄 수상",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2023_samsumg/";
+            },},{id: "projects-aaai-conference-at-vancouver-feb-2024",
+          title: 'AAAI Conference at Vancouver (Feb. 2024)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2024_aaai/";
+            },},{id: "projects-ai-seminar-at-cuk-mar-2025",
+          title: 'AI Seminar at CUK (Mar. 2025)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2025_seminarcuk/";
+            },},{
         id: 'social-dblp',
         title: 'DBLP',
         section: 'Socials',
