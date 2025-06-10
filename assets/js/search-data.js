@@ -474,6 +474,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/academic_2024_aaai/";
+            },},{id: "projects-ecmwf-annual-seminar-2025-apr-2025",
+          title: 'ECMWF Annual Seminar 2025 (Apr. 2025)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2025_ecmwf/";
             },},{id: "projects-ai-seminar-at-cuk-mar-2025",
           title: 'AI Seminar at CUK (Mar. 2025)',
           description: "",
