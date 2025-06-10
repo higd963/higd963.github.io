@@ -484,6 +484,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/academic_2025_seminarcuk/";
+            },},{id: "projects-ai-seminar-at-kiaps-may-2025",
+          title: 'AI Seminar at KIAPS (May 2025)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2025_seminarkiaps/";
             },},{
         id: 'social-dblp',
         title: 'DBLP',
