@@ -9,7 +9,6 @@ category: Academic
 ---
 Raeseol Park, Hyeon-Ju Jeon, Dae-Hyun Sun, et al. (2025) Pioneering Adaptive Strategies for Korea Integrated Model in the Face of Climate Change. in Proceedings of the 2025 Annual Seminar of the European Centre for Medium-Range Weather Forecasts (ECMWF Annual Seminar 2025), Bonn, Germany; April 2025.
 ([link](https://events.ecmwf.int/event/418/posters))
-(link)
 
 
 <div class="row">
