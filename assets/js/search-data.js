@@ -479,6 +479,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/academic_2025_ecmwf/";
+            },},{id: "projects-ai-seminar-at-cuk-sep-2025",
+          title: 'AI Seminar at CUK (Sep. 2025)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2025_seminar_cuk/";
             },},{id: "projects-ai-seminar-at-ewha-may-2025",
           title: 'AI Seminar at EWHA (May. 2025)',
           description: "",
