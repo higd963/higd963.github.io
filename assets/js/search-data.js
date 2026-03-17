@@ -474,6 +474,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/academic_2024_aaai/";
+            },},{id: "projects-kcc-conference-at-jeju-jul-2025",
+          title: 'KCC Conference at Jeju (Jul. 2025)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2025_KCC/";
             },},{id: "projects-ecmwf-annual-seminar-2025-apr-2025",
           title: 'ECMWF Annual Seminar 2025 (Apr. 2025)',
           description: "",
