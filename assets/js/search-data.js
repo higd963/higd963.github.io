@@ -489,6 +489,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/academic_2025_ecmwf/";
+            },},{id: "projects-kiaps-symposium-at-seoul-nov-2025",
+          title: 'KIAPS Symposium at Seoul (Nov. 2025)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2025_kiaps/";
             },},{id: "projects-ai-seminar-at-cuk-sep-2025",
           title: 'AI Seminar at CUK (Sep. 2025)',
           description: "",
