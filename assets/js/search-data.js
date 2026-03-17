@@ -419,7 +419,12 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-has-been-published-at-ieee-transactions-on-network-science-and-engineering-jcr-top-3-3",
           title: 'A paper has been published at IEEE Transactions on Network Science and Engineering...',
           description: "",
-          section: "News",},{id: "projects-cikm-conference-at-beijing-nov-2019",
+          section: "News",},{id: "projects-kms-conference-at-changwon-nov-2025",
+          title: 'KMS Conference at Changwon (Nov. 2025)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic%202025_KMS/";
+            },},{id: "projects-cikm-conference-at-beijing-nov-2019",
           title: 'CIKM Conference at Beijing (Nov. 2019)',
           description: "",
           section: "Projects",handler: () => {
