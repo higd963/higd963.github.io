@@ -8,7 +8,7 @@ importance: 987
 category: Academic
 ---
 
-Hyeon-Ju Jeon, Rae-Seol Park, Gil Lee, Eun-Jin Kim (2025). Transformer-Based Global Cloud Fraction Prediction Reflecting Vertical Structure of the Atmosphere. in Proceedings of the Korea Computer Congress 2025 (KCC 2025), Jeju, Korea; July 2025.([pdf][https://drive.google.com/file/d/1cv4gctK3B6_-qEBPFtYvOTDpRgGF3W68/view?usp=sharing])
+Hyeon-Ju Jeon, Rae-Seol Park, Gil Lee, Eun-Jin Kim (2025). Transformer-Based Global Cloud Fraction Prediction Reflecting Vertical Structure of the Atmosphere. in Proceedings of the Korea Computer Congress 2025 (KCC 2025), Jeju, Korea; July 2025. ([pdf](https://drive.google.com/file/d/1cv4gctK3B6_-qEBPFtYvOTDpRgGF3W68/view?usp=sharing))
 
 
 
