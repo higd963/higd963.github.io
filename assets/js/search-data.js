@@ -504,6 +504,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/academic_2026_seminar_ewha/";
+            },},{id: "projects-ai-seminar-at-cuk-mar-2026",
+          title: 'AI Seminar at CUK (Mar. 2026)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_seminar_2026_cur/";
             },},{
         id: 'social-dblp',
         title: 'DBLP',
