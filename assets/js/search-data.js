@@ -499,6 +499,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/academic_2025_seminarkiaps/";
+            },},{id: "projects-ai-seminar-at-ewha-in-winter-vacation-feb-2026",
+          title: 'AI Seminar at EWHA in Winter Vacation (Feb. 2026)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2026_seminar_ewha/";
             },},{
         id: 'social-dblp',
         title: 'DBLP',
