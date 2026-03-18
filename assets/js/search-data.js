@@ -484,6 +484,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/academic_2025_KMS/";
+            },},{id: "projects-racs-and-scientific-seminar-at-ho-chi-minh-nov-2025",
+          title: 'RACS and Scientific Seminar at Ho Chi Minh (Nov. 2025)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic_2025_RACS/";
             },},{id: "projects-ecmwf-annual-seminar-2025-apr-2025",
           title: 'ECMWF Annual Seminar 2025 (Apr. 2025)',
           description: "",
