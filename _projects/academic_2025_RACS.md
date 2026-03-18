@@ -8,8 +8,7 @@ importance: 984
 category: Academic
 ---
 
-* **Hyeon-Ju Jeon**, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations of Earth Observations for Weather Forecasting using Graph Structure Learning. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025. DOI:10.1145/3769002.3769956
-* ([pdf](https://dl.acm.org/doi/abs/10.1145/3769002.3769956))
+* **Hyeon-Ju Jeon**, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations of Earth Observations for Weather Forecasting using Graph Structure Learning. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025. DOI:10.1145/3769002.3769956 ([pdf](https://dl.acm.org/doi/abs/10.1145/3769002.3769956))
 
 
 <div class="row">
