@@ -2,7 +2,7 @@
 layout: page
 title: AI Seminar at CUK (Sep. 2025) 
 description: 
-img: assets/img/proj/academic/aiseminar_cuk_2025.JPG
+img: assets/img/proj/academic/CKU_logo.png
 redirect: 
 importance: 991
 category: Activities
